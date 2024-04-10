@@ -1,0 +1,28 @@
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\bin\Debug\net8.0\GPC.exe
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\bin\Debug\net8.0\GPC.deps.json
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\bin\Debug\net8.0\GPC.runtimeconfig.json
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\bin\Debug\net8.0\GPC.dll
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\bin\Debug\net8.0\GPC.pdb
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\GPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\GPC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\GPC.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\GPC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\GPC.dll
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\refint\GPC.dll
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\GPC.pdb
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\GPC.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Proyectos VisualCode\GPC\obj\Debug\net8.0\ref\GPC.dll
+C:\Users\EQUIPO\Pictures\GPC\GPC\bin\Debug\net8.0\GPC.exe
+C:\Users\EQUIPO\Pictures\GPC\GPC\bin\Debug\net8.0\GPC.deps.json
+C:\Users\EQUIPO\Pictures\GPC\GPC\bin\Debug\net8.0\GPC.runtimeconfig.json
+C:\Users\EQUIPO\Pictures\GPC\GPC\bin\Debug\net8.0\GPC.dll
+C:\Users\EQUIPO\Pictures\GPC\GPC\bin\Debug\net8.0\GPC.pdb
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\GPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\GPC.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\GPC.AssemblyInfo.cs
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\GPC.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\GPC.dll
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\refint\GPC.dll
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\GPC.pdb
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\GPC.genruntimeconfig.cache
+C:\Users\EQUIPO\Pictures\GPC\GPC\obj\Debug\net8.0\ref\GPC.dll
